@@ -1,0 +1,6 @@
+C:\Users\bperu\source\repos\Stack1\Brit\bin\Debug\Brit.exe.config
+C:\Users\bperu\source\repos\Stack1\Brit\bin\Debug\Brit.exe
+C:\Users\bperu\source\repos\Stack1\Brit\bin\Debug\Brit.pdb
+C:\Users\bperu\source\repos\Stack1\Brit\obj\Debug\Brit.csprojAssemblyReference.cache
+C:\Users\bperu\source\repos\Stack1\Brit\obj\Debug\Brit.exe
+C:\Users\bperu\source\repos\Stack1\Brit\obj\Debug\Brit.pdb

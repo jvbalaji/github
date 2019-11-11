@@ -1,0 +1,6 @@
+C:\Users\bperu\source\repos\Stack1\Stack1\obj\Debug\Stack1.csprojAssemblyReference.cache
+C:\Users\bperu\source\repos\Stack1\Stack1\bin\Debug\Stack1.exe.config
+C:\Users\bperu\source\repos\Stack1\Stack1\bin\Debug\Stack1.exe
+C:\Users\bperu\source\repos\Stack1\Stack1\bin\Debug\Stack1.pdb
+C:\Users\bperu\source\repos\Stack1\Stack1\obj\Debug\Stack1.exe
+C:\Users\bperu\source\repos\Stack1\Stack1\obj\Debug\Stack1.pdb

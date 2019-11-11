@@ -1,0 +1,20 @@
+add 15
+multiply 3
+apply 3
+
+multiply 9
+apply 5
+add 15
+subtract 9
+divide 3
+multiply 20
+apply 4
+
+add 15
+multiply 10
+add 20
+subtract 5
+divide 10
+apply 15
+
+apply 10
