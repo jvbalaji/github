@@ -1,0 +1,5 @@
+C:\Users\bperu\source\repos\MarsRover1\MarsRover1\bin\Debug\MarsRover1.exe.config
+C:\Users\bperu\source\repos\MarsRover1\MarsRover1\bin\Debug\MarsRover1.exe
+C:\Users\bperu\source\repos\MarsRover1\MarsRover1\bin\Debug\MarsRover1.pdb
+C:\Users\bperu\source\repos\MarsRover1\MarsRover1\obj\Debug\MarsRover1.exe
+C:\Users\bperu\source\repos\MarsRover1\MarsRover1\obj\Debug\MarsRover1.pdb
